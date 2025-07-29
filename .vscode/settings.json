@@ -1,0 +1,11 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "editor.problems.decorations": false,
+  "problems.showCurrentInStatus": false,
+  "C_Cpp.default.compilerPath": "",
+  "files.associations": {
+    "*.cpp": "cpp",
+    "*.h": "c"
+  }
+}
