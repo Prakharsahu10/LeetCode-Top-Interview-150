@@ -48,3 +48,6 @@ public:
         return h;
     }
 };
+
+// Time Complexity: O(n log n), where n is the number of papers. This is due to the sorting step.
+// Space Complexity: O(1), as we are using a constant amount of space for the h-index variable and the input array is modified in place.

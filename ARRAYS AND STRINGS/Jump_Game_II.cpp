@@ -46,3 +46,8 @@ public:
         return count;
     }
 };
+
+// Time Complexity: O(n), where n is the length of the input array.
+// We traverse the array once to find the minimum jumps.
+//
+// Space Complexity: O(1), as we only use a few variables to track the current state.
