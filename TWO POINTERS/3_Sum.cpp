@@ -73,7 +73,7 @@ public:
 
             while(j < k) {
                 // Calculate the current sum of the three elements
-                int total = nums[i] + nums[j] + nums[k];
+                int total = nums[i]+nums[j]+nums[k];
 
                 if(total > 0) {
                     // If sum is too large, decrease the right pointer to get a smaller sum
