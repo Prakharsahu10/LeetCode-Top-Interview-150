@@ -48,3 +48,6 @@ public:
         return s == t;
     }
 };
+
+// Time Complexity: O(n log n) due to sorting both strings
+// Space Complexity: O(1) if sorting in-place
