@@ -73,7 +73,7 @@ public:
                 
                 // Format the range based on whether it's a single number or range
                 if (start == nums[i-1]) {
-                    // Single number: just add the number as string
+                    // Single number: just add the number as string                  
                     result.push_back(to_string(start));
                 } else {
                     // Range: format as "start->end"
